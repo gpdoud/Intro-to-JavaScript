@@ -4,6 +4,9 @@ Guests introduce themselves
 Introduce me
 Logistics (restrooms)
 
+// writing out info
+console.log()
+
 // creating number variables
 var age = 29;
 var GPA = 3.5;
